@@ -1,7 +1,7 @@
 ---
 tags:
   - phase/1
-  - status/offen
+  - status/done
   - quick-win
   - agent/self
 reihe: 5

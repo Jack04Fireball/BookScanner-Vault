@@ -1,7 +1,7 @@
 ---
 tags:
   - phase/3
-  - status/offen
+  - status/done
   - refactor
   - agent/self
 reihe: 11

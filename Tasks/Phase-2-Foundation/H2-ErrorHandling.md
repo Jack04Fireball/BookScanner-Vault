@@ -1,7 +1,7 @@
 ---
 tags:
   - phase/2
-  - status/offen
+  - status/done
   - foundation
   - agent/self
 reihe: 6
