@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "9cdcb8ffeb67f845",
+    "type": "split",
+    "children": [
+      {
+        "id": "525e7ec3b747028b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "243482cbf1d31fcb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2594e929702504b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd2403c25f77d10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0fd7d7a008d783",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "897da88c98eb7d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#status/in-progress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15398a09f5674327",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac9f9d725751e361",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d53760e49350ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3a96565b2ae611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e8ec8683b09c4795",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f9d6477383af6ee1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e239815712d1085",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c66246c07edfb65f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "243482cbf1d31fcb",
+  "lastOpenFiles": [
+    "Tasks/Phase-3-Refactor/Erledigt/M4-Batch-Import.md",
+    "Tasks/Phase-4-Polish/Erledigt/L2-Backup.md",
+    "Tasks/Phase-1-QuickWins/H1-Strings.md",
+    "Tasks/Phase-3-Refactor/M5-Performance.md",
+    "Tasks/Phase-3-Refactor/M4-Batch-Import.md",
+    "Tasks/Phase-3-Refactor/H5-Sync-Conflict-UI.md",
+    "Tasks/Phase-3-Refactor/H4-AppViewModel-Split.md",
+    "Tasks/Phase-1-QuickWins/M2-Constants.md",
+    "Tasks/Phase-4-Polish/L1-Export.md",
+    "Tasks/Phase-3-Refactor/Erledigt",
+    "Tasks/Phase-2-Foundation/H6-UnitTests.md",
+    "Tasks/Phase-4-Polish/Erledigt",
+    "Tasks/Phase-2-Foundation/H2-ErrorHandling.md",
+    "Tasks/Phase-1-QuickWins/M3-RateLimit.md",
+    "Tasks/Phase-1-QuickWins/M1-DeadCode.md",
+    "Tasks/Phase-1-QuickWins/H3-Logging.md",
+    "Tasks/Kanban-Board.md",
+    "Tasks/Dashboard.md",
+    "Tasks/Phase-4-Polish",
+    "Tasks/Phase-3-Refactor",
+    "Tasks/Phase-2-Foundation",
+    "Tasks/Phase-1-QuickWins",
+    "Tasks",
+    "BookScanner/Tasks/Phase-3-Refactor/M4-Batch-Import.md",
+    "BookScanner 2/Tasks/Dashboard 2.md",
+    "BookScanner 2/Tasks/Sprint-Mittel/M5-Performance.md",
+    "BookScanner 2/Tasks/Sprint-Mittel/M3-Rate-Limit.md",
+    "BookScanner 2/Tasks/Sprint-Mittel/M4-Batch-Import.md",
+    "BookScanner 2/Tasks/Sprint-Mittel/M2-Constants.md",
+    "BookScanner 2/Tasks/Sprint-Mittel/M1-Dead-Code.md",
+    "BookScanner 2/Tasks/Sprint-Niedrig/L2-Backup.md",
+    "BookScanner 2/Tasks/Sprint-Niedrig/L1-Export.md",
+    "BookScanner 2/Tasks/Sprint-Hoch/H6-Unit-Tests.md",
+    "BookScanner 2/Tasks/Sprint-Niedrig",
+    "BookScanner 2/Tasks/Sprint-Mittel",
+    "BookScanner 2/Tasks/Sprint-Hoch",
+    "Untitled.canvas"
+  ]
+}
